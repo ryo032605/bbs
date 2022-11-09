@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "IDとパスワードを入力してください"
+AuthUserFile /home/c4573060/public_html/ryonosuke0326.com/bbs/.htpasswd
+require valid-user
